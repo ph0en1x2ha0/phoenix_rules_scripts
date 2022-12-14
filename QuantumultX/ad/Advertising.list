@@ -8,10 +8,10 @@
 # IP-CIDR: 243
 # TOTAL: 96123
 HOST,ad.xy2013.cn,Advertising
-HOST,ib.aqhnmof.cn,Advertising
-HOST,tn.uvrifrd.cn,Advertising
-HOST,lmhjt.iuuiugbjd.xyz,Advertising
-HOST,gnrty.kmjkwe.xyz,Advertising
+HOST-SUFFIX,aqhnmof.cn,Advertising
+HOST-SUFFIX,uvrifrd.cn,Advertising
+HOST-SUFFIX,iuuiugbjd.xyz,Advertising
+HOST-SUFFIX,kmjkwe.xyz,Advertising
 HOST,ads.play.cbsi.video,Advertising
 HOST,ads.reembed.com,Advertising
 HOST,ads.storm8.com,Advertising
