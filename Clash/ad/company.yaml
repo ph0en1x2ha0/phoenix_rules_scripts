@@ -1,4 +1,5 @@
-- DOMAIN-SUFFIX,ihealthcn.com
-- DOMAIN-SUFFIX,phoenix.com
-- IP-CIDR,124.70.96.217/32
-- IP-CIDR,117.78.5.165/32
+payload:
+  - DOMAIN-SUFFIX,ihealthcn.com
+  - DOMAIN-SUFFIX,phoenix.com
+  - IP-CIDR,124.70.96.217/32
+  - IP-CIDR,117.78.5.165/32
