@@ -24,7 +24,6 @@ payload:
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,asdh5.com
   - DOMAIN-SUFFIX,fluidplayer.com
-  - DOMAIN-SUFFIX,go.xlviirdr
   - DOMAIN-SUFFIX,mith5.com
   - DOMAIN-SUFFIX,pgnktni.cn
   - DOMAIN-SUFFIX,aff003.xyz
@@ -45,3 +44,6 @@ payload:
   - DOMAIN-SUFFIX,myb6api.com
   - DOMAIN-SUFFIX,jiujiao.ltd
   - DOMAIN-SUFFIX,fuhuida.ltd
+  - DOMAIN-SUFFIX,xlviirdr.com
+  - DOMAIN-SUFFIX,xlivrdr.com
+  - DOMAIN-SUFFIX,stripchat.com
