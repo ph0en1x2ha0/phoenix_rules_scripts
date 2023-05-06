@@ -56,3 +56,4 @@ payload:
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,sonatype.org
   - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,ant.design
